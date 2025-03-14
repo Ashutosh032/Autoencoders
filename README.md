@@ -12,4 +12,4 @@ Reconstructed on the test set and showed the reconstruction error.
 ## Training a VAE model for generating new data similar to training set.
 Trained the model on fashionMNIST dataset.
 Generated 30 new samples using the learned model and plot them.
-
+Dataset - https://github.com/zalandoresearch/fashion-mnist?tab=readme-ov-file#get-the-data
